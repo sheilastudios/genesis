@@ -14,6 +14,10 @@ The model, its prior knowledge, tools, storage, task setup, feedback and operati
 
 Nor is failure reduction the only objective. A system that avoids mistakes by doing almost nothing has not necessarily become more useful.
 
+## Participate
+
+We welcome task proposals, critiques of controls, relevant prior work, and independently executed observations—including negative results and unexpected approaches. See [Contributing to Genesis](CONTRIBUTING.md) for how to participate and report evidence. Suggestions inform future protocol versions; they do not silently change frozen experiments.
+
 ## Read the edition
 
 - [Hypothesis](HYPOTHESIS.md): the proposed distinction, a short invented example and competing explanations.
