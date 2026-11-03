@@ -2,7 +2,7 @@
 
 Genesis invites scrutiny, not demonstrations of a predetermined conclusion. You do not need to agree with the hypothesis to contribute.
 
-This repository currently presents a research hypothesis and evidence framework, not a published executable protocol or seed. Helping sharpen the question is useful participation now. See [the hypothesis](HYPOTHESIS.md), [evidence status](EVIDENCE.md) and [rights boundaries](RIGHTS.md).
+This repository currently presents a research hypothesis and evidence framework, plus a public [discussion seed](DISCUSSION-SEED.md), not a frozen executable protocol. Helping sharpen the question is useful participation now. See [the hypothesis](HYPOTHESIS.md), [evidence status](EVIDENCE.md) and [rights boundaries](RIGHTS.md).
 
 ## Ways to participate
 
@@ -37,4 +37,8 @@ Suggestions can inform future protocol versions. They do not silently modify a f
 
 ## Share only material you can publish
 
-Use synthetic or appropriately shareable examples. Do not submit credentials, private conversations, confidential source material or material you lack permission to disclose. This invitation does not release the private papers, seed or governing materials, or change [RIGHTS.md](RIGHTS.md). For proposed code or dataset contributions, state provenance and applicable permissions so reuse terms can be resolved before incorporation.
+Use synthetic or appropriately shareable examples. Do not submit credentials, private conversations, confidential source material or material you lack permission to disclose. This invitation does not release the private papers or operational governing materials, or change [RIGHTS.md](RIGHTS.md). For proposed code or dataset contributions, state provenance and applicable permissions so reuse terms can be resolved before incorporation.
+
+## Current design work
+
+See [DESIGN-NOTES.md](DESIGN-NOTES.md) for candidate controls and contributor attribution. Keep the initial [proposal](PROPOSAL.md) and [field note](FIELD-NOTE.md) as historical snapshots; propose substantive revisions separately. Include sensitivity, ceiling effects and meaningful nulls when discussing measures. Suggestions are not automatically adopted protocol decisions.

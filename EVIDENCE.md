@@ -38,6 +38,6 @@ Results from related projects are not imported as Genesis evidence. No current c
 
 ## Scope of this edition
 
-No experiment, provider call, software execution, runtime change or reproduction of historical trials was performed for this publication. The edition contains no governing prompt, detailed enforcement or repair recipe, compressed source block, private transcript or manuscript.
+No experiment, provider call, software execution, runtime change or reproduction of historical trials was performed for this publication. The original documentary edition contained no governing prompt. The separately added [discussion seed](DISCUSSION-SEED.md) is a public experimental candidate, not an adopted operational prompt or an executed study. The original [proposal](PROPOSAL.md), [field note](FIELD-NOTE.md) and evolving [design notes](DESIGN-NOTES.md) are now collected here; none supplies new experimental results. No private operational prompt, detailed enforcement or repair recipe, compressed source block, private transcript or manuscript is released.
 
 Missing results prevent a demonstrated-benefit claim. They do not prevent a clearly labelled, falsifiable research question from being useful.
