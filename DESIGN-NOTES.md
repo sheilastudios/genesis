@@ -48,10 +48,22 @@ Status: retained as a candidate control for protocol development, not an adopted
 - This contrast could estimate the value of the existing organization/access arrangement at that point. It does not establish optimal organization or recover its original construction cost; retain construction and maintenance costs separately. Forks and episodes within one history remain dependent, so replicate developmental histories.
 - A gap is not automatically pure organization benefit if conversion breaks dependencies or changes usable information. No gap is not proof that retention alone did the work: ceiling performance, imprecision or an insensitive task can conceal differences. Define meaningful effects and appropriate uncertainty before interpreting a null.
 
-Open question to the contributor: preserve filenames and artifact boundaries as plain text while removing navigational affordances, or use another transformation? The distinction between informational content and access needs an explicit operational definition.
+### Contributor follow-up: preserve labels, remove navigation
+
+In [HF reply #5](https://discuss.huggingface.co/t/research-proposal-what-does-an-agent-build-to-sustain-its-own-work/191361/5), nootxlm sharpened the proposal: retain each full path and artifact boundary as a quoted header in one dump, use a preregistered order rather than the participant's arrangement (alphabetical by header was suggested), and make the original paths and links non-resolving. Their proposed two-sided check is that every header remains recoverable as text, while following it yields no information beyond the dump.
+
+This answers the earlier question about preserving filenames and boundaries. Retain it as a concrete candidate transformation, not a frozen protocol. Sheila's implementation and interpretation qualifications are:
+
+- Preserve the eligible informational content and full header strings without selection or summarization. Specify escaping and boundary encoding so artifact text cannot be mistaken for a header; audit recoverability against the source snapshot.
+- Verify that the flattened condition cannot resolve the original paths or links through its allowed interface or reach an original artifact tree through an alternate route. Specify permitted text search and charge access consistently within the disclosed resource envelope. A text label may still help locate a passage inside the dump; that is not access to a separate artifact.
+- Alphabetical order is itself an imposed organization, and path labels can preserve semantic groupings. Describe the contrast as participant-built organization/access versus a standardized text-only representation of the same material, not structure versus no structure. Freeze the exact ordering rule; it may happen to coincide with the participant's order.
+- Establish benchmark sensitivity in separate development work before freezing a confirmatory comparison. Include access demands that can meaningfully exercise the contrast under the chosen read budget; if everything fits comfortably in one read and both conditions reach ceiling, that does not establish that navigation is dispensable. Do not retune the task after seeing confirmatory outcomes to manufacture a gap.
+
+The follow-up and its checks are credited to nootxlm; these additional qualifications are ours. No experiment, implementation release or seed revision is commissioned by this note.
 
 ## Current refinement: consultation without approval dependence
 
 Independent development need not mean unaided invention. Distinguish participant-initiated consultation, unsolicited operator hints/rescue, and mandatory authorization gates. Observe who identifies the need, frames the question, evaluates advice, adopts/modifies/rejects it, and verifies the resulting work. Attribute external intellectual contributions even when the decision to consult is autonomous; disclose access, contents, timing and resource costs consistently across conditions.
 
 The broader question is whether the participant chooses useful support for its work: building a tool, seeking advice, revising or retiring an existing structure, or doing nothing when no intervention is useful. None should require reproducing our preferred architecture. These are collaborative design refinements, not a new experimental commission or evidence of benefit.
+
